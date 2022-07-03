@@ -1,2 +1,1 @@
-# biz-credit-dapp
-Ubuntu Informal Biz Credit DApp
+# Ubuntu Informal Biz Credit DApp
