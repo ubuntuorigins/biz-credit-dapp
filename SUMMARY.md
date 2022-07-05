@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Overview](README.md)
+* [Problem Statement](problem.md)
+* [Our Solution](solution.md)
+* [Summary](summarised.md)
+* [Background](background.md)
+* [Detailed Solution](detailed_solution.md)
+* [Smart Contract and No collateral credit](smart_contract.md)
+* [Our Approah](approach.md)
+* [Market Research](market_research.md)
+* [Addressing the Challenge](addressing_the_challenge.md)
+* [Risk Assessment](risk_assessment.md)
+* [Road Map](roadmap.md)
+* [KPIs](kpis.md)

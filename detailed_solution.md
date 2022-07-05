@@ -1,0 +1,7 @@
+# Solution in Details
+
+The solution proposes to use existing co-operative operation in Africa through smart contract on dApp and provide secured and collateral free credits at a rate less than 2%. It is estimated that there are over 500 million cooperatives across Africa. As at 2016, South Africa had 132,000 cooperative movement and there are 25,000 cooperatives with 14,000,000 members in Kenya. Ghana equally have about 15,000 cooperative societies. It must be noted that several other cooperatives movements operate with little or no records on them.
+
+Traditionally, the extended family in Africa forms the basic economic unit of communities. It must be noted that the extended family operates with a pool of resource, however, the extended family is a private entity as several other private families exists even within one community. Also, there exist co-operatives systems that pool resources on a mutual cooperative basis between several individuals from various families. For instance, members of a particular co-operative can undertake to weed individual farm lands in turns and on weekly basis. It is how, traditionally, co-operatives organize various economic activities including farming.
+
+The Cardano blockchain present safety and reduce risk associated with the traditional co-operative operation. With smart contract developed on a dApp which would code the traditional co-operative operation on blockchain. The blockchain technology would present secured, transparent and safe cooperation among individuals in the informal sector. 

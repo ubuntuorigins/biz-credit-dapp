@@ -1,0 +1,13 @@
+# Market Research 
+
+The informal sector is dominated by individual private businesses undertaking various economic activities that is vital to the economies of countries in Africa. Caprio & Honohan (2001) have argued that GDP growth rate could increase by 2% if credit flow to the private sector is doubled. It has been established that the level of economic activities is highly affected by any disruption to the supply of credit (Melzer, 2007). Currently, the informal sector faced by an existing credit constrains. According to the World Bank (2008), access to finance is described as absence of price and non-price barriers to actual use of financial services (credit). In practice, documentation process alone provides difficulty to informal sector and prevent them from accessing credit from existing financial institutions.
+
+Naturally, at the going market rate, when demand for credit exceeds supply, borrowers will be prepared to pay higher rate to obtain credit but high interest rate will reduce the expected returns of lender, since higher interest rate can be a disincentive to repay the loan. What is more crucial is that, high interest rate takes away the borrowers expected returns; therefore, borrowers are motivated to engage in high-risk ventures with high returns and low possibility of success. Therefore, there is a moral responsibility on lenders not to increase interest rate (price) in response to increase demand for credit even though borrowers may want to pay higher price (Domeher et al., 2014). 
+
+However, high interest rate can induce more lender to increase supply of credit and reduce interest rate in the long run.
+
+Since the project would take of in Ghana, it is important to note that, in Ghana, small enterprises in the informal sector mainly source their credit from non-bank financial institution. 
+
+In addition, the nature of small enterprise borrowing in Ghana is interesting as Domeher et al., (2014) revealed that the amount of loan SMEs desire to borrow have a significant association with the average amount of cash generated per month by the business. Thus, the loan amount increases as the cash generated per month by the business increases and vice versa. This is good for lenders and the economy as a whole because SMEs only borrow as much as they can afford. To put in another way, SMEs that generate higher cash per month are relatively big business with bigger financial needs hence, mostly decide to apply for large amount of credit.
+
+This present opportunity to use smart-contract to imprint on the Cardano blockchain credit operations that has made informal businesses survived in the face of adversities and neglect form financial inclusion. 
